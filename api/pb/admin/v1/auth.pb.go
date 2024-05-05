@@ -5,6 +5,7 @@
 // source: admin/v1/auth.proto
 
 package admin
+// 一些pb文件
 
 import (
 	_ "github.com/srikrsna/protoc-gen-gotag/tagger"
