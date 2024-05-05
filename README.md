@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-GIM 是一个网页版即时聊天系统，界面简约、美观、操作简单且容易进行二次开发。
+GIM 是一个网页版即时聊天系统，界面简约、美观、操作简单且容易进行二次开发，更加适合于开发人员进行技术交流，摒弃了微信、QQ等一些大众化的功能，更加注重于交流学习。
 
 ##### 使用技术
 
@@ -29,7 +29,7 @@ GIM 是一个网页版即时聊天系统，界面简约、美观、操作简单�
 1. 下载源码
 
 ```git
-$ git clone https://github.com/gzydong/go-chat.git
+$ git clone https://github.com/Ci-77/Go-chat.git
 ```
 
 1. 拷贝项目根目录下 config.example.yaml 文件为 config.yaml 并正确配置相关参数
