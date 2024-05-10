@@ -1,4 +1,5 @@
 # GIM 服务端（golang）
+基于go+websocket实现的即时通讯系统
 
 ## 项目简介
 
